@@ -9,4 +9,7 @@
 
 [parallax](https://optimusprime1996.github.io/parallax/)
 
+
+[![parallax](https://github.com/OptimusPrime1996/OptimusPrime1996/blob/main/assets/1744108332691.png)](https://optimusprime1996.github.io/parallax/)
+
 <div></div>
