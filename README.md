@@ -1,4 +1,4 @@
-<div style="text-align:center">
+<div style="text-align:center;">
 <img src="https://github.com/OptimusPrime1996/OptimusPrime1996/blob/main/assets/Code%20Hacking%20GIF%20by%20Pizza%20Ninjas.gif" alt="drawing"/>
 </div>
 
