@@ -15,7 +15,9 @@
 
 <a href="https://instafire-app.firebaseapp.com/"><img src="https://github.com/OptimusPrime1996/OptimusPrime1996/blob/main/assets/Group.svg" style="width:200px;height:200px;"></a>
 
+Center a DIV
 
-
-
-<div></div>
+```html
+ <div style="display: flex; align-items: center; justify-content: center">
+      <div></div>
+ </div>
