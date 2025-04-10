@@ -7,5 +7,6 @@
 
 
 <img src="https://github.com/OptimusPrime1996/OptimusPrime1996/blob/main/assets/_.svg">
+<img src="https://github.com/OptimusPrime1996/OptimusPrime1996/blob/main/assets/Group.svg">
 
 <div></div>
