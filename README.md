@@ -4,6 +4,9 @@
   
 </p>
 <hr>
+<img src="https://github.com/OptimusPrime1996/OptimusPrime1996/blob/main/assets/4108586.png" alt=""/>
+
+<hr>
 
   <img src="https://github.com/OptimusPrime1996/OptimusPrime1996/blob/main/assets/angular.gif" alt="drawing" style="width:200px;height:200px;"/>
 
