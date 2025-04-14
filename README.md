@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/OptimusPrime1996/OptimusPrime1996/blob/main/assets/HTML_CSS_JS.gif" alt="drawing"/>
 
-<img src="https://picsum.photos/1200/900?random=1" alt="random"/>
+
 
   
 </p>
